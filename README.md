@@ -15,7 +15,7 @@ This is a Python script used to remotely control Claude Code on a PC (Windows 10
 * Windows 10
 * Python 3.8+
 * Node.js and Claude Code installed globally
-* A Telegram Bot Token (obtained via @BotFather)
+* A Telegram Bot Token 
 
 Install Python dependencies:
 
