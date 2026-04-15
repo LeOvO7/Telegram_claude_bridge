@@ -133,7 +133,7 @@ async def cmd_start(update: Update, ctx: ContextTypes.DEFAULT_TYPE) -> None:
         "/shell &lt;command&gt; — Execute Shell Commands Directly\n"
         "/cancel                — Cancel Current Task\n"
         "/start                 — Show this help\n\n"
-        "<b>提示：</b>--print In this mode, Claude outputs only text and does not automatically create files.\n"
+        "<b>hint：</b>--print In this mode, Claude outputs only text and does not automatically create files.\n"
         "To create a file, Claude can generate the script content and then execute it using /shell,\n"
         "Alternatively, you can directly use `/shell` in conjunction with commands such as `echo` or `python`.",
         parse_mode=ParseMode.HTML,
