@@ -1,6 +1,6 @@
 # Telegram Claude Code Bridge
 
-This is a Python script used to remotely control Claude Code on a PC (Windows 10) via a Telegram Bot. It allows you to send prompts directly through Telegram to have Claude Code perform tasks in your local working directory, such as creating files, modifying code, and executing terminal commands.
+This is a Python script used to remotely control Claude Code on a PC (Windows) via a Telegram Bot. It allows you to send prompts directly through Telegram to have Claude Code perform tasks in your local working directory, such as creating files, modifying code, and executing terminal commands.
 
 ## Features
 
